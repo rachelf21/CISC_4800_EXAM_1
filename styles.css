@@ -1,0 +1,25 @@
+body {
+  font-family: "ITC Franklin Gothic", "arial", "sans-serif";
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+.section1 {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 720px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+th,
+td {
+  text-align: left;
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 10px;
+  width: 240px;
+}
